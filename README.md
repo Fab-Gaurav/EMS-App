@@ -1,5 +1,5 @@
 # EMS-App
 
-## I created a Employee Management System App using basic HTML, CSS, Boothstrap
+ created a Employee Management System App using basic HTML, CSS, Boothstrap
 
-And I'm currently working on backend.
+Hosting URL: [EMS-App](https://fab-gaurav.github.io/EMS-App/)
